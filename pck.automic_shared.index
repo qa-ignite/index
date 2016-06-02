@@ -1,0 +1,20 @@
+{
+  "name" : "PCK.AUTOMIC_SHARED",
+  "description" : "This package contains commonly used components and actions.",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "file:///E:/Work/package-manager/Projects/package-manager-test/src/test/resources/input-data/PCK.AUTOMIC_SHARED_1.0.0.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "bde4241125406b5fcdac3379fe32ed55eee09154",
+    "dependencies" : { }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "",
+  "license" : "",
+  "categories" : "Shared",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic Shared Library"
+}

@@ -1,0 +1,20 @@
+{
+  "name" : "PCK.AUTOMIC_PROVISIONING",
+  "description" : "This package contains artifacts required for ARA provisioning feature",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://vvnsdev02/packages/ITPA/develop/PCK.AUTOMIC_PROVISIONING_1.0.0.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0.0",
+    "sha1" : "947ef99544f50a6a8f978024064723019c49c762",
+    "dependencies" : { }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Application Release Automation",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "Automic Provisioning"
+}

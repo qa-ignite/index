@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_INI",
+  "description" : "Manipulate variables in an INI file.",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://vvnsdev02/packages/ITPA/develop/PCK.AUTOMIC_INI_1.1.0.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.1.0",
+    "sha1" : "50e5b818bf1818b49568e5f82565a7e2ae9f3969",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "INI, File manipulation",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic INI manipulation"
+}

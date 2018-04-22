@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.AUTOMIC_TOMCAT",
+  "description" : "Manage application deployments to a Tomcat application server",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "ftp://vvnsdev02/packages/ITPA/develop/PCK.AUTOMIC_TOMCAT_1.1.0.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.1.0",
+    "sha1" : "a64cbc6a7cf88f8a4ffaf56d68735f74ccff606c",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Automic Software GmbH",
+  "homepage" : "www.automic.com",
+  "license" : "",
+  "categories" : "Application Server",
+  "packageFormatVersion" : "0.1.0",
+  "title" : "Automic Tomcat"
+}
